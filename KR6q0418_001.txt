@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:51:40.246674
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:37
 #+TITLE: 雪關禪師語錄
 #+PROPERTY: CBETA_ID J27nB198
 #+PROPERTY: ID KR6q0418
@@ -10,7 +10,7 @@
 #+PROPERTY: LASTPB <pb:KR6q0418_J_001-0441a> 
 #+PROPERTY: JUAN 1
 
-總目¶
+* 總目¶
 
   
   * 卷一¶
@@ -102,7 +102,7 @@
 侍者成巒傳善錄¶
 法孫開詗編¶
 
-信州博山語錄¶
+* 信州博山語錄¶
 
 崇禎壬申孟夏朔旦信州眾檀越暨合山大眾請上¶
 堂。¶
